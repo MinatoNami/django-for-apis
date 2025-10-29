@@ -1,0 +1,14 @@
+asgiref==3.10.0
+black==25.9.0
+click==8.3.0
+Django==5.1.13
+django-cors-headers==4.6.0
+djangorestframework==3.15.2
+mypy_extensions==1.1.0
+packaging==25.0
+pathspec==0.12.1
+platformdirs==4.5.0
+pytokens==0.2.0
+sqlparse==0.5.3
+tomli==2.3.0
+typing_extensions==4.15.0
